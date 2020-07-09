@@ -1,5 +1,5 @@
 # Strona do rozwiązywania testów + panel administracyjny
-Projekt strony internetowej umożliwiający rozwiązywanie testów. Obsługuje rejestrację nowych użytkowników, statystyki odpowiedzi oraz zapewnia uprawnionemu użytkownikowi panel administracyjny z funkcjami pozwalającymi zarządzać serwisem. Backend obsłużony za pomocą jezyka PHP.
+Projekt strony internetowej umożliwiający rozwiązywanie testów. Obsługuje rejestrację nowych użytkowników, statystyki odpowiedzi oraz zapewnia uprawnionemu użytkownikowi panel administracyjny z funkcjami pozwalającymi zarządzać serwisem. Backend obsłużony za pomocą jezyka PHP. **Strona jest w pełni responsywna** dzięki wykorzystaniu frameworka Bootstrap.
 ## Funkcje
 - Rejestracja i logowanie (hasło musi posiadać co najmniej 6 znaków)
 - Rozwiązywanie testów
